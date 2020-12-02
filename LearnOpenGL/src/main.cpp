@@ -31,7 +31,7 @@ int main()
 
 	RenderDelegate* renderDelegate = RenderDelegate::getInstance();
 
-	renderDelegate->setHandleDelegate(new CubmapStudy());
+	renderDelegate->setHandleDelegate(new CameraStudy()); // CubmapStudy
 
 	renderDelegate->run();
 
