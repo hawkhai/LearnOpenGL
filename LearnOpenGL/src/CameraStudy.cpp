@@ -143,7 +143,7 @@ void CameraStudy::render()
 
 	for (int i = 0; i < 10; i++)
 	{
-		mat4 model;
+		mat4 model = mat4(1.0f);
 		mat4 view;
 		mat4 projection;
 
