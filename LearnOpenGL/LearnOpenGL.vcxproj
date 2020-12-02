@@ -121,6 +121,18 @@
     <ClInclude Include="src\transform.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\resource\shaders\advancedglslblue.frag" />
+    <None Include="..\resource\shaders\advancedglslblue.vs" />
+    <None Include="..\resource\shaders\advancedglslfragcoord.frag" />
+    <None Include="..\resource\shaders\advancedglslfragcoord.vs" />
+    <None Include="..\resource\shaders\advancedglslgreen.frag" />
+    <None Include="..\resource\shaders\advancedglslgreen.vs" />
+    <None Include="..\resource\shaders\advancedglslpoint.frag" />
+    <None Include="..\resource\shaders\advancedglslpoint.vs" />
+    <None Include="..\resource\shaders\advancedglslred.frag" />
+    <None Include="..\resource\shaders\advancedglslred.vs" />
+    <None Include="..\resource\shaders\advancedglslyellow.frag" />
+    <None Include="..\resource\shaders\advancedglslyellow.vs" />
     <None Include="..\resource\shaders\basiclight.frag" />
     <None Include="..\resource\shaders\basiclight.vs" />
     <None Include="..\resource\shaders\basiclighting.frag" />
@@ -133,6 +145,18 @@
     <None Include="..\resource\shaders\colorstudy.vs" />
     <None Include="..\resource\shaders\coordinate.frag" />
     <None Include="..\resource\shaders\coordinate.vs" />
+    <None Include="..\resource\shaders\cubmapcube.frag" />
+    <None Include="..\resource\shaders\cubmapcube.vs" />
+    <None Include="..\resource\shaders\cubmapcube2.frag" />
+    <None Include="..\resource\shaders\cubmapcube2.vs" />
+    <None Include="..\resource\shaders\cubmapstudy.frag" />
+    <None Include="..\resource\shaders\cubmapstudy.vs" />
+    <None Include="..\resource\shaders\cubmapstudy2.frag" />
+    <None Include="..\resource\shaders\cubmapstudy2.vs" />
+    <None Include="..\resource\shaders\framebuffer.frag" />
+    <None Include="..\resource\shaders\framebuffer.vs" />
+    <None Include="..\resource\shaders\framebufferquad.frag" />
+    <None Include="..\resource\shaders\framebufferquad.vs" />
     <None Include="..\resource\shaders\light.frag" />
     <None Include="..\resource\shaders\light.vs" />
     <None Include="..\resource\shaders\lightcastercube.frag" />
@@ -153,6 +177,10 @@
     <None Include="..\resource\shaders\shaderstudy.vs" />
     <None Include="..\resource\shaders\spotlightcube.frag" />
     <None Include="..\resource\shaders\spotlightcube.vs" />
+    <None Include="..\resource\shaders\stencilborder.frag" />
+    <None Include="..\resource\shaders\stencilborder.vs" />
+    <None Include="..\resource\shaders\stencilcube.frag" />
+    <None Include="..\resource\shaders\stencilcube.vs" />
     <None Include="..\resource\shaders\textures.frag" />
     <None Include="..\resource\shaders\textures.vs" />
     <None Include="..\resource\shaders\transform.frag" />
