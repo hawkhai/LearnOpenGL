@@ -1,0 +1,3 @@
+[submodule "opengl-3rd"]
+	path = opengl-3rd
+	url = https://gitee.com/hawkhai/opengl-3rd.git
