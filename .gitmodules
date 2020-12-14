@@ -1,3 +1,6 @@
 [submodule "opengl-3rd"]
 	path = opengl-3rd
 	url = https://gitee.com/hawkhai/opengl-3rd.git
+[submodule "LearnOpenGL-og"]
+	path = LearnOpenGL-og
+	url = git@github.com:hawkhai/LearnOpenGL-og.git
