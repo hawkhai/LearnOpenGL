@@ -13,3 +13,9 @@ If u want see more fun things.[See here](https://bingxue102685.github.io). This 
 
 ## The End
 I hope someone who love opengl make friends with me.
+
+LearnOpenGL：本库改的书案例
+
+LearnOpenGL-og：原始作者的代码库
+
+opengl-3rd：自己整理的第三方库
